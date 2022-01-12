@@ -23,7 +23,10 @@ This the project "Plagiarism Detection" developed to the Udacity Machine Learnin
 * Train your model and deploy it using SageMaker.
 * Evaluate your deployed classifier.
 
-* source_pytorch/ - contains the code to create, train and predict with the model
+**source_pytorch/**
+* model.py - code to create the model
+* train.py - code to train the model
+* predict.py -code to use the model to perform predictions
 
 ## Disclaimer
 
